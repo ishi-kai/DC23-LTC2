@@ -7,3 +7,7 @@ Team members:
     - DAC: Korea	
     - Clocking: Japan
     - Voltage Reference: Japan
+
+
+![Japan Team Layout](./images/chip_image_name.png)
+
